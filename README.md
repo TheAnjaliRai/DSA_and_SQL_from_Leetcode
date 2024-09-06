@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/TheAnjaliRai/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/TheAnjaliRai/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -95,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
