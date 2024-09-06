@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TheAnjaliRai/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0202-happy-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TheAnjaliRai/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TheAnjaliRai/LeetCode/tree/master/0067-add-binary) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TheAnjaliRai/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Brainteaser
 |  |
 | ------- |
