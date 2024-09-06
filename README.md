@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/TheAnjaliRai/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TheAnjaliRai/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/TheAnjaliRai/LeetCode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/TheAnjaliRai/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
