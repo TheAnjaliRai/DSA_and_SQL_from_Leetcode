@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/TheAnjaliRai/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/TheAnjaliRai/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
