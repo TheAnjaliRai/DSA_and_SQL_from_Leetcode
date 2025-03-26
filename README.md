@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TheAnjaliRai/LeetCode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TheAnjaliRai/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TheAnjaliRai/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/TheAnjaliRai/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0189-rotate-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TheAnjaliRai/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
