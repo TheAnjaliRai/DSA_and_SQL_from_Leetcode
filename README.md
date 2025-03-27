@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TheAnjaliRai/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TheAnjaliRai/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/TheAnjaliRai/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TheAnjaliRai/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TheAnjaliRai/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/TheAnjaliRai/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TheAnjaliRai/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/TheAnjaliRai/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TheAnjaliRai/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/TheAnjaliRai/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TheAnjaliRai/LeetCode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
