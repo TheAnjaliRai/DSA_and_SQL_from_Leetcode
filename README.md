@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TheAnjaliRai/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TheAnjaliRai/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TheAnjaliRai/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/TheAnjaliRai/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/TheAnjaliRai/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TheAnjaliRai/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/TheAnjaliRai/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/TheAnjaliRai/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TheAnjaliRai/LeetCode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
