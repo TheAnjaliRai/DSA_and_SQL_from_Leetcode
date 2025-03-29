@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TheAnjaliRai/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TheAnjaliRai/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheAnjaliRai/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TheAnjaliRai/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TheAnjaliRai/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TheAnjaliRai/LeetCode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheAnjaliRai/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAnjaliRai/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheAnjaliRai/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
