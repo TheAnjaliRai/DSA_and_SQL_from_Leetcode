@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TheAnjaliRai/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TheAnjaliRai/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TheAnjaliRai/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TheAnjaliRai/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/TheAnjaliRai/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TheAnjaliRai/LeetCode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/TheAnjaliRai/LeetCode/tree/master/0647-palindromic-substrings) |
