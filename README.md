@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/TheAnjaliRai/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TheAnjaliRai/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1480-running-sum-of-1d-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TheAnjaliRai/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/TheAnjaliRai/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
