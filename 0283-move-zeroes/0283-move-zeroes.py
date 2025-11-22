@@ -4,16 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        Li= []
-        count = 0
-        for i in range(0,n):
+        last = 0
+        for i in range(len(nums)):
             if nums[i]!=0:
-                Li.append(nums[i])
-            else:
-                count = count+1
-        for i in range(0,count):
-            Li.append(0)
+                nums[i],nums[last] = nums[last],nums[i]
+                last+=1
 
-        for i in range(n):
-            nums[i] = Li[i]
+            
+        
+        
