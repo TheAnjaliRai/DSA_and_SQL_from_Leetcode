@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TheAnjaliRai/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TheAnjaliRai/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TheAnjaliRai/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/TheAnjaliRai/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TheAnjaliRai/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TheAnjaliRai/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TheAnjaliRai/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TheAnjaliRai/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/TheAnjaliRai/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/TheAnjaliRai/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TheAnjaliRai/LeetCode/tree/master/0217-contains-duplicate) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TheAnjaliRai/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TheAnjaliRai/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TheAnjaliRai/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/TheAnjaliRai/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TheAnjaliRai/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TheAnjaliRai/LeetCode/tree/master/0125-valid-palindrome) |
