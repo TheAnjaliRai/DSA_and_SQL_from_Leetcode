@@ -1,27 +1,21 @@
 class Solution(object):
     def maxArea(self, height):
-        # maxvol = 0
-        # for i in range(len(height)-1):
-        #     for j in range(i+1 , len(height)):
-        #         width = j -i
-        #         ht = min(height[i],height[j])
-        #         vol = width*ht
-        #         maxvol = max(maxvol,vol)
-        # return maxvol
-
-        maxvol = 0
-        start = 0
-        end = len(height)-1
-        while(start<end):
-            maxvol = max(maxvol,min(height[start],height[end])*(end-start))
-            if height[start]<height[end]:
-                start+=1
+        """
+        :type height: List[int]
+        :rtype: int
+        """
+        left = 0
+        area = 0
+        max_area = 0
+        right = len(height)-1
+        while left < right:
+            h = min(height[left],height[right])
+            width = right-left
+            area = h*width
+            max_area = max(area,max_area)
+            if (height[left] <= height[right]):
+                left+=1
             else:
-                end-=1
-        return maxvol
-
-
-
-
-
+                right-=1
+        return max_area
         
