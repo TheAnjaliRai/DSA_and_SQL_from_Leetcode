@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAnjaliRai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TheAnjaliRai/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/TheAnjaliRai/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/TheAnjaliRai/LeetCode/tree/master/0724-find-pivot-index) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TheAnjaliRai/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -311,5 +312,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TheAnjaliRai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/TheAnjaliRai/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/TheAnjaliRai/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/TheAnjaliRai/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
